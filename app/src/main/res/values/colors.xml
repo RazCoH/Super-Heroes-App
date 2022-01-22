@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="dark_blue">#2C4A52</color>
+    <color name="water">#537072</color>
+    <color name="haze">#8E9B97</color>
+    <color name="cream">#F4EBDB</color>
+    <color name="white">#FFFF</color>
+    <color name="red">#FA1227</color>
+    <color name="semiTransparentColor">#40FFFFFF</color>
+</resources>

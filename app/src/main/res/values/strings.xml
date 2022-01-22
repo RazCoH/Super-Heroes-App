@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HeroesApp</string>
+    <string name="heroes_list_title">Our Heroes</string>
+    <string name="search_hint_text">Search Your Hero</string>
+    <string name="add_to_cart_dialog_title">Your Item Added Successfully!</string>
+    <string name="server_error">Server error, please try again later</string>
+    <string name="double_back_press_text">Press back again to exit</string>
+    <string name="hero_share">"Share your hero"</string>
+    <string name="no_results">"Sorry, No results found for your search"</string>
+
+    <string name="hero_biography_title">Biography</string>
+    <string name="hero_full_name_title">Full Name:</string>
+    <string name="hero_place_of_birth_title">Place Of Birth:</string>
+    <string name="hero_first_appearance">First Appearance:</string>
+    <string name="hero_publisher_title">Publisher:</string>
+
+    <string name="hero_power_stats_title">Power Stats</string>
+    <string name="hero_intelligence_title">Intelligence:</string>
+    <string name="hero_strength_title">Strength:</string>
+    <string name="hero_speed_title">Speed:</string>
+    <string name="hero_combat_title">Combat:</string>
+
+
+    <string name="hero_appearance_title">Appearance</string>
+    <string name="hero_gender_title">Gender:</string>
+    <string name="hero_race_title">Race:</string>
+    <string name="hero_eye_color">Eye Color:</string>
+    <string name="hero_hair_color">Hair Color:</string>
+
+    <string name="hero_work_title">Work</string>
+    <string name="hero_occupation_title">Occupation:</string>
+    <string name="hero_base_title">Base:</string>
+
+</resources>
